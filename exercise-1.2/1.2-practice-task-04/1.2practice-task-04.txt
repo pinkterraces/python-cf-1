@@ -1,0 +1,14 @@
+str3[3:]
+>>> lo, how are you?
+
+str3[-3:]
+>>> ou?
+
+str3[2:9:3]
+>>> l,o
+
+str3[::-2]
+>>> Hello, how are yo
+
+str3[2:8]
+>>> llo, h
