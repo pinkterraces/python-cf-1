@@ -46,5 +46,6 @@ for recipe in recipes_list:
 
 print("************************")
 print("All Ingredients: ")
+ingredients_list.sort()
 for ingredient in ingredients_list:
     print(ingredient)
